@@ -1,7 +1,7 @@
 <div align="center">
 
 <p>
-  <strong>Hi, I'm Albert — my CV below</strong>
+  <strong>Hi, I'm Albert — my CV below 👋</strong>
 </p>
 
 </div>
