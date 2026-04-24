@@ -1,16 +1,40 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**f-a-shen/f-a-shen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Francis Albert Shen
 
-Here are some ideas to get you started:
+<p>
+  <sub>Historian and Software Engineer</sub>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+<br>
+
+<p align="left">
+Francis Albert Shen is an historian and software engineer. He attends the 
+<a href="https://www.washington.edu">University of Washington</a>, pursuing degrees in History and Informatics. 
+He is associated with <a href="https://history.washington.edu/honors-history">Honors in History</a>, 
+the <a href="https://l4cch.github.io/lab-website/">Lab for Computing Cultural Heritage</a>, 
+and the <a href="https://startup.ischool.uw.edu">iStartup Lab</a>.
+</p>
+
+<p align="left">
+Albert is interested in twentieth-century American history: the Cold War and the United States in the world; 
+the history of social science; and the history of computing and information technology.
+</p>
+
+<p align="left">
+He is developing a digitization, search, and recommendation system for non-born-digital materials, 
+with a particular focus on historical newspapers. He plans to launch an AI-powered event calendar that retrieves, 
+organizes, and recommends Registered Student Organization (RSO) events.
+</p>
+
+<p align="left">
+His thesis is titled <em>The Frontiersman: George E. Taylor and the Transnational Making of the Cold War Intellectual, 1905–1959</em>. 
+He completed it under the supervision of Dr. Daniel Bessner and Dr. Matthew Mosca of the Departments of International Studies and History.
+</p>
+
+<p align="left">
+Beyond his scholarship and research, he previously attended Indian Springs School, enjoys the works of 
+Thomas Pynchon, Neal Stephenson, and Nic Pizzolatto, and loves camping along the beaches of the Pacific Northwest.
+</p>
