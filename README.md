@@ -1,12 +1,16 @@
-# Hi, I'm Albert, my CV below
+<div align="center">
+
+<p>
+  <strong>Hi, I'm Albert — my CV below</strong>
+</p>
+
+</div>
+
+<hr>
 
 <div align="center">
 
-# Francis Albert Shen
-
-<p>
-  <sub>Historian and Software Engineer</sub>
-</p>
+<h1>Francis Albert Shen</h1>
 
 </div>
 
